@@ -13,7 +13,7 @@ In summary the contributions of this project include:
 - Comparative analysis of existing sentiment analysis tool on app based review
 
  
-Result:
+Results:
 
 ![result](https://github.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/blob/master/Comparison.png)
 
