@@ -12,8 +12,8 @@ In summary the contributions of this project include:
 - Improved accuracy for app based reviews of NLP tool, Textblob
 - Comparative analysis of existing sentiment analysis tool on app based review
 
-
-              Base			                  Naïve Bayes			            Decision Tree	
+ 
+    Base			                  Naïve Bayes			            Decision Tree	
 Folds	  Acc.	Precision	Recall	    Acc.	Precision	Recall	    Acc.	Precision	Recall
 1	      0.66	0.747	0.789	          0.84	0.852	0.927	          0.86	0.887	0.912
 2	      0.74	0.827	0.827	          0.805	0.872	0.867	          0.84	0.887	0.899
@@ -30,11 +30,15 @@ F1		      0.79613			                0.87266			                0.89061
 
 
 Accuracy Comparison:
-![https://github.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/blob/master/AccuracyComparison.png]
+
+[https://github.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/blob/master/AccuracyComparison.png]
 
 
 Precision Comparison:
-![https://github.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/blob/master/PrecisionComparison.png]
+
+[https://github.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/blob/master/PrecisionComparison.png]
+
 
 Recall Comparison:
-![https://github.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/blob/master/RecallComparison.png]
+
+[https://github.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/blob/master/RecallComparison.png]
