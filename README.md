@@ -31,14 +31,14 @@ F1		      0.79613			                0.87266			                0.89061
 
 Accuracy Comparison:
 
-!(https://github.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/blob/master/AccuracyComparison.png)
+![Accuracy](https://github.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/blob/master/AccuracyComparison.png)
 
 
 Precision Comparison:
 
-!(https://github.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/blob/master/PrecisionComparison.png)
+![Precision](https://github.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/blob/master/PrecisionComparison.png)
 
 
 Recall Comparison:
 
-(https://github.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/blob/master/RecallComparison.png)
+![Recall](https://github.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/blob/master/RecallComparison.png)
