@@ -15,19 +15,19 @@ In summary the contributions of this project include:
  
 Results:
 
-![result](https://github.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/tree/master/img/Comparison.png)
+![result](https://raw.githubusercontent.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/master/img/Comparison.png)
 
 
 Accuracy Comparison:
 
-![Accuracy](https://github.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/tree/master/img/AccuracyComparison.png)
+![Accuracy](https://raw.githubusercontent.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/master/img/AccuracyComparison.png)
 
 
 Precision Comparison:
 
-![Precision](https://github.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/tree/master/img/PrecisionComparison.png)
+![Precision](https://raw.githubusercontent.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/master/img/PrecisionComparison.png)
 
 
 Recall Comparison:
 
-![Recall](https://github.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/tree/master/img/RecallComparison.png)
+![Recall](https://raw.githubusercontent.com/nahida-uap/Accuracy-improvement-of-Textblob-based-on-Supervised-learning-method/master/img/RecallComparison.png)
